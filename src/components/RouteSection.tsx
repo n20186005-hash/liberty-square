@@ -38,6 +38,9 @@ export default function RouteSection() {
           <h3 className="font-display text-lg font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
             {t('tips')}
           </h3>
+          {t('tipsContent') && (
+            <p className="mb-4" style={{ color: 'var(--text-secondary)' }}>{t('tipsContent')}</p>
+          )}
           <ul className="space-y-2">
             {supplements.map((item, i) => (
               <li key={i} className="flex items-start gap-2" style={{ color: 'var(--text-secondary)' }}>

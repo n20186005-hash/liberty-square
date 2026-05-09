@@ -37,7 +37,7 @@ export default function Gallery() {
 
         <div className="text-center mt-8">
           <a
-            href="https://maps.app.goo.gl/kSm2qTp6RNVioZu69"
+            href="https://maps.app.goo.gl/2X8Y7L9K3J2H1G7"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-full font-medium transition-colors"

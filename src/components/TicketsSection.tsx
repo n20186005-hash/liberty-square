@@ -26,9 +26,7 @@ export default function TicketsSection() {
             <h3 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
               {t('lighthouse')}
             </h3>
-            <p className="mb-2" style={{ color: 'var(--text-secondary)' }}>{t('adults')}: {t('adultsPrice')}</p>
-            <p className="mb-2" style={{ color: 'var(--text-secondary)' }}>{t('students')}: {t('studentsPrice')}</p>
-            <p style={{ color: 'var(--text-secondary)' }}>{t('children')}: {t('childrenPrice')}</p>
+            <p className="mb-2" style={{ color: 'var(--text-secondary)' }}>{t('adultsPrice')}</p>
           </div>
         </div>
       </div>
