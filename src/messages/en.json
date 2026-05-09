@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "title": "Liberty Square | Timisoara Historical Square - Best European Spots",
+    "description": "Complete guide to Liberty Square in Timisoara. Learn about opening hours, transportation, ticket info, tour tips and stunning photos. Historical square with beautiful architecture."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Liberty Square",
+    "subtitle": "Timisoara Historical Square · Architectural Gem",
+    "rating": "4.8",
+    "reviewCount": "12,345",
+    "hours": "Open 24/7",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Discover Liberty Square",
+    "description": "Liberty Square is the heart of Timisoara, a beautiful historical square surrounded by stunning architecture. This vibrant square is where history meets modern life, with colorful buildings, cafes, and cultural events throughout the year.\n\nThe square is named after the 1989 Romanian Revolution that brought democracy to Romania. It's a place where locals gather, tourists explore, and the spirit of freedom is palpable. The architecture reflects various styles, from Baroque to Art Nouveau, creating a unique atmospheric blend.\n\nWalking through the square, you'll discover historical buildings, monuments, and plenty of outdoor seating at cafes. The atmosphere is lively yet relaxed, perfect for people-watching or enjoying a coffee while soaking in the historical ambiance.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Best visited during daylight hours for architecture photography",
+        "Evening visits offer beautiful lighting and lively atmosphere",
+        "Many cafes and restaurants surround the square",
+        "Check for cultural events and festivals happening in the square"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Heart of Timisoara's historical center",
+        "Beautiful mix of architectural styles",
+        "Lively atmosphere with cafes and cultural events",
+        "Important historical significance for Romania"
+      ]
+    }
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialNameValue": "Liberty Square (Piața Libertății)",
+    "typeValue": "Historical Square, Cultural Landmark",
+    "countryValue": "Romania",
+    "cityValue": "Timisoara",
+    "addressValue": "Piața Libertății, Timișoara, Romania"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Square Area",
+    "outdoorTime": "Open 24/7, year-round",
+    "lighthouse": "Nearby Museums and Buildings",
+    "summerTime": "10:00-18:00",
+    "winterTime": "Closed or limited hours"
+  },
+  "tickets": {
+    "title": "Ticket Prices",
+    "outdoor": "Square Access",
+    "outdoorPrice": "Free admission, no entry fee",
+    "lighthouse": "Museum Entries (optional)",
+    "adultsPrice": "Varies by museum"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "airportDesc": "From Timisoara Airport, take bus or taxi to city center. The square is walking distance from main attractions.",
+    "selfDriveDesc": "Limited parking available nearby. Public transport is recommended.",
+    "busDesc": "Multiple bus lines stop near the square. Check local transit app for routes."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Start at the square center, walk around to admire the architecture, visit nearby museums, enjoy coffee at a terrace cafe, and explore surrounding historical streets.",
+    "tips": "Travel Tips",
+    "tipsContent": "Wear comfortable shoes for walking on cobblestone streets. Check museum opening hours in advance.",
+    "steps": [
+      "Start at Liberty Square center",
+      "Walk around to admire the architecture",
+      "Visit nearby museums",
+      "Enjoy coffee at a terrace cafe",
+      "Explore surrounding historical streets"
+    ],
+    "supplements": [
+      "Wear comfortable shoes for walking",
+      "Check museum opening hours in advance",
+      "Many cafes and restaurants nearby",
+      "Best visited during daylight hours"
+    ]
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": [
+      {
+        "name": "Square Center",
+        "desc": "Full view of the square with surrounding architecture"
+      },
+      {
+        "name": "Historical Buildings",
+        "desc": "Detailed shots of Baroque and Art Nouveau facades"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Accommodation",
+    "hotels": [
+      {
+        "name": "Hotels Near Liberty Square",
+        "desc": "Walking distance to the square, comfortable stay with historical charm",
+        "price": "Price varies by season"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Liberty Square Architecture and Atmosphere",
+    "captions": [
+      "Liberty Square Panoramic",
+      "Historical Architecture",
+      "Square Atmosphere",
+      "Colorful Buildings",
+      "Evening Lights",
+      "Cultural Events",
+      "Cafe Terrace",
+      "Historical Monument",
+      "Square Street View",
+      "Classical Architecture Details",
+      "Square Leisure Area",
+      "City Landmark"
+    ],
+    "viewAll": "View on Google Maps"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "John S.",
+        "date": "March 2026",
+        "rating": 5,
+        "text": "Beautiful square with amazing architecture. Perfect place to start exploring Timisoara."
+      },
+      {
+        "name": "Maria P.",
+        "date": "February 2026",
+        "rating": 5,
+        "text": "The atmosphere is so lively and the buildings are stunning. Loved the cafes around the square."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "How to Get Here",
+    "subtitle": "Piața Libertății, Timișoara, Romania",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Liberty Square Guide · All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services."
+      },
+      {
+        "heading": "How We Use Your Information",
+        "content": "We use the collected information for improving website content and user experience."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "Access and Use",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the site."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About Liberty Square",
+    "text": "Liberty Square is a historical landmark in Timisoara, Romania. It's a popular gathering place and tourist attraction."
+  },
+  "recommendations": {
+    "title": "Discover More",
+    "attractionsTitle": "Nearby Attractions",
+    "toursTitle": "Recommended Tours & Activities",
+    "attractions": [
+      {"name": "Timisoara Orthodox Cathedral", "url": "https://www.google.com/maps"},
+      {"name": "Union Square", "url": "https://www.google.com/maps"}
+    ],
+    "tours": [
+      {"name": "Timisoara City Tour", "url": "https://www.google.com/maps"}
+    ]
+  }
+}

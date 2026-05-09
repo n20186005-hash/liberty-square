@@ -8,6 +8,7 @@ const nextConfig = {
       { protocol: 'https' as const, hostname: 'images.unsplash.com' },
     ],
   },
+  outputFileTracingRoot: undefined,
 };
 
 export default withNextIntl(nextConfig);
