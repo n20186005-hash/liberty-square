@@ -1,14 +1,24 @@
 'use client';
 
-import { useParams } from 'next/navigation';
+import { usePathname } from 'next/navigation';
+import { useLocale } from 'next-intl';
 
 export default function LanguageToggle() {
-  const params = useParams();
-  const locale = params.locale as string;
+  const locale = useLocale();
+  const pathname = usePathname();
 
   const toggleLocale = locale === 'zh' ? 'en' : 'zh';
-  const currentPath = typeof window !== 'undefined' ? window.location.pathname : '';
-  const newPath = currentPath.replace(`/${locale}`, `/${toggleLocale}`);
+  
+  // Create the new path correctly handling the root paths
+  let newPath = '';
+  if (locale === 'zh') {
+    // Going from zh to en: / -> /en, /privacy-policy -> /en/privacy-policy
+    newPath = pathname === '/' ? '/en' : `/en${pathname}`;
+  } else {
+    // Going from en to zh: /en -> /, /en/privacy-policy -> /privacy-policy
+    newPath = pathname === '/en' ? '/' : pathname.replace(/^\/en/, '');
+    if (newPath === '') newPath = '/';
+  }
 
   return (
     <a
